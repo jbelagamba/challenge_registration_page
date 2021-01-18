@@ -1,0 +1,27 @@
+{
+  "name": "challenge_registration_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiled"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbelagamba/challenge_registration_page.git"
+  },
+  "author": "Jaqueline Belagamba de Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbelagamba/challenge_registration_page/issues"
+  },
+  "homepage": "https://github.com/jbelagamba/challenge_registration_page#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "jquery-mask-plugin": "^1.14.16",
+    "jquery-validation": "^1.19.3",
+    "popper.js": "^1.16.1"
+  }
+}
