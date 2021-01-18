@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiled"
+    "watch:sass": "sass --watch node_modules/bootstrap/scss:css/compiled"
   },
   "repository": {
     "type": "git",
