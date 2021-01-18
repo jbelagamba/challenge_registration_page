@@ -27,8 +27,8 @@ Terceira etapa (Descrição)
 ---
 
 ### Tecnologias utilizadas
- - html
- - bootstrap 4 /scss
+ - Html
+ - bootstrap 4/Scss
  - Javacript/Jquery
  - Axios
  - Api para consulta de CEP: [Postmon](https://postmon.com.br/)
@@ -44,3 +44,4 @@ Terceira etapa (Descrição)
  `npm install`
  
  Abrir o arquivo `index.html` no navegador
+ Ex:  `url_local/challenge_registration_page/src/index.html`
