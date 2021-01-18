@@ -1,7 +1,5 @@
 # Desafio página de cadastro
 
----
-
 ### Descrição
 
 Página contendo formulário de cadastro sendo validado em 3 etapas:
