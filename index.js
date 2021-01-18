@@ -91,6 +91,7 @@ $formRegister.submit(function(event) {
 
    if(validadeForm('finish')) {
       $allSteps.hide();
+      $sectionSuccess.fadeIn('slow');
       var formData = $formRegister.serializeArray();
       console.log(`Formulário validado com sucesso:`, formData);
    }
