@@ -44,9 +44,3 @@ Terceira etapa (Descrição)
  `npm install`
  
  Abrir o arquivo `index.html` no navegador
- 
- ---
- 
- ### Visualizar projeto no gitub pages
-
-Acessar url: [challenge_registration_page](#)
